@@ -1,0 +1,9 @@
+---
+version: 2
+macros:
+- name: "SampleGem"
+  arguments:
+  - name: "parameter1"
+    type: "value"
+    description: "{\"ProphecyType\": \"value\"}"
+  macroType: "query"
